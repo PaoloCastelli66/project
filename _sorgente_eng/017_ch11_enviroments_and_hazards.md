@@ -1,20 +1,35 @@
-# CHAPTER 11: ENVIRONMENTS AND HAZARDS
 
-The following are common environmental hazards that are can be
-encountered in a Cepheus Engine game.
+
+# CAPITOLO 11: AMBIENTE E PERICOLI AMBIENTALI
+Di seguito vengono descritti i più comuni pericoli ambientali che
+possono essere confrontati in una partita di Cepheus Engine
 
 ## Acid
+## Acidi
+Gli acidi corrosisivi procurano 1d6 danni per ogni round di esposizione, 
+tranne che nel caso di totale immersione, come in una vasca di acido, per cui
+procurano 10d6 danni per round. Un attacco con un acido, come nel caso di una 
+fiala lanciata o lo sputo corrosivo di un animale, conta come 1 round di esposizione.
 
 Corrosive acids deal 1D6 damage per round of exposure, except in the
 case of total immersion (such as into a vat of acid), which deals 10D6
 damage per round. An attack with acid, such as from a hurled vial or an
 animal's acidic spittle, counts as a round of exposure.
 
+I fumi di molti acidi sono velenosi. Coloro che si avvicinano a sufficienza ad una
+grosso volume di acido per immergervi una creatura devono effettuare un test Resistenza 
+Medio(+) o subire 1D6 punti di danno. Questi personaggi dovranno effettuare un secondo 
+Test Resistenza Medio (+0) dop un minuto o subre ulteriori 1d6 danni.
+
 The fumes from most acids are poisonous. Those who come close enough to
 a large body of acid to dunk a creature in it must make an Average (+0)
 Endurance check or take 1D6 point of damage. All such characters must
 make a second Average (+0) Endurance check one minute later or take
 another 1D6 point of damage.
+
+Le creature che sono immuni alle proprietà caustiche dell'acido possono comunque
+annegare se totalmente immerse ed impossibilitate a respirare. per maggiori dettagli 
+vede **Soffocamento**
 
 Creatures that are immune to acid's caustic properties might still drown
 in it if they are totally immersed and need to breathe. For more
